@@ -27,7 +27,7 @@
 # To Do List
 Create a Drop Down Menu Instead of having users type all their information.
 # Getting Started
-git clone https://github.com/krisjoshi96/Magic-Bus-Booking.git
+git clone https://github.com/MohRob/Project2-Magic-Bus-Booking-backend.git
  # Enviornment Setup
 - Open Sts
 - Open Angular
